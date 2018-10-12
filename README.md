@@ -1,0 +1,2 @@
+# Disaster-Management
+The idea is to make an android app which will help you to know whether you are now in safe place or not and if that place is not safe then it will give time that up to what time, place will become safe to live.Before two hour of natural calamities it gives red signal in phones if there is any  chances of any type of natural calamities and show green signal if place is safe.It automatically takes weather information of that place and helps to save many of people's  live.
